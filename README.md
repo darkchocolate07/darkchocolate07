@@ -50,7 +50,7 @@ Experienced in building full-stack AI systems, automation tools, and data-driven
 
 ## 🔗 Links
 
-- 📄 [Resume](https://link-to-your-resume)
+- 📄 [Resume](https://drive.google.com/file/d/1zYzKQQNbQY6Hfdlvha7G2UqcaJRc23xn/view?usp=sharing)
 - 💼 [LinkedIn](https://linkedin.com/in/guptaabhiraj11)
 - 📬 [Email](mailto:abhirajgupta2004@gmail.com)
 
